@@ -6,6 +6,10 @@ group :jekyll_plugins do
     gem 'jekyll-gist'
     gem 'jekyll-seo-tag'
     gem 'jemoji'
+    gem 'unicode-display_width', '1.8.0'
+    gem 'jekyll-sass-converter'
+
+
 end
 
 gem "webrick"
