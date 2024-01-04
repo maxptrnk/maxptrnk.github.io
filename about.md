@@ -4,30 +4,10 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I’m a Belgian with a Ukrainian heart. I’m 23. I've moved to Canada to study Artificial Intelligence in one of the best cities for that. Montreal. 
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+My curiosity has no limits. I want to find all the secrets of this world. The challenge of trying to understand intelligence, not only the human one but in general, seduced me. I’m currently a master’s student, and I’m only at the beginning of my big journey.
 
-<h2>Skills</h2>
+I'm looking for the best ways AI can have a positive impact on the world to safeguard the future for generations to come. I believe AI will change the world as much as the internet, if not more. It's the opportunity of the century.
 
-<ul class="skill-list">
-	<li>...</li>
-</ul>
-
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+I’m currently learning and working on my skills. At the moment, I'm particularly interested to learn about Foundation Models, Multi-Modal Models, LLMs, Game theory, Graph Theory, AI Safety.</p>
